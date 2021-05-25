@@ -1,0 +1,6 @@
+name: ClansSystem
+main: me.tulio.clan.Clan
+version: 1.0-SNAPSHOT
+author: TulioTriste
+depend:
+  - PlaceholderAPI
